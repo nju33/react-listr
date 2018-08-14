@@ -2,6 +2,7 @@
   "name": "react-listr",
   "version": "0.0.0",
   "main": "dist/react-listr.js",
+  "types": "dist/index.d.ts",
   "source": "src/index.ts",
   "repository": "git@github.com:nju33/react-listr.git",
   "author": "nju33 <nju33.ki@gmail.com>",
