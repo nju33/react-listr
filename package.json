@@ -1,10 +1,10 @@
 {
   "name": "react-listr",
   "version": "0.1.1",
-  "main": "dist/react-listr.js",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "source": "src/index.ts",
-  "repository": "git@github.com:nju33/react-listr.git",
+  "repository": "nju33/react-listr",
   "author": "nju33 <nju33.ki@gmail.com>",
   "license": "MIT",
   "files": [
