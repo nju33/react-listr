@@ -7,6 +7,9 @@
   "repository": "git@github.com:nju33/react-listr.git",
   "author": "nju33 <nju33.ki@gmail.com>",
   "license": "MIT",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "tsc -P tsconfig.build.json",
