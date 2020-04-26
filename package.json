@@ -20,7 +20,7 @@
     "@geekcojp/prettier-config": "0.3.0",
     "@geekcojp/tslint-config": "0.2.1",
     "@types/html-webpack-plugin": "3.2.0",
-    "@types/jest": "23.3.13",
+    "@types/jest": "23.3.14",
     "@types/node": "10.17.21",
     "@types/react": "16.7.20",
     "@types/react-dom": "16.9.6",
