@@ -27,7 +27,7 @@
     "@types/webpack": "4.4.23",
     "html-webpack-plugin": "3.2.0",
     "jest": "23.6.0",
-    "prettier": "1.16.0",
+    "prettier": "1.19.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "renovate-config-nju33": "0.0.1",
